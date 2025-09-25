@@ -1,4 +1,5 @@
 # GroceryApp sprint2 
+Ik, , heb dit aangepast
 
 ## Docentversie  
 In deze versie zijn de wijzigingen doorgevoerd en is de code compleet.  
